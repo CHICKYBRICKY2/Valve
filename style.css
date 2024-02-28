@@ -1,0 +1,114 @@
+.box1{
+	background-color: black;
+}
+.box{
+	background-image: url(sss.jpg);
+    height:450px ;
+    background-size: cover;
+    
+}
+.box12{
+
+	height: 400px;
+	width: 1500px;
+	margin-top: 50px;
+	display:flex ;
+
+}
+.box2{
+	background-color: red;
+	height: 400px;
+	width: 700px;
+	margin-right: 50px;
+	margin-left: 100px;
+	background-image: url(hhh.jpg);
+
+}
+.box44{
+	height: 400px;
+	width: 300px;
+	margin-top: 70px;
+}
+.box3{
+    height: 450px;
+	width: 800px;
+	margin-right: 50px;
+	margin-left: 100px;
+	margin-top: 70px;
+	background-image: url(hhhh.jpg);
+}
+.box4{
+	height: 500px;
+	width: 800px;
+	margin-top: 50px;
+	margin-left: 240px;
+	margin-top: 70px;
+	background-image: url(stam.jpg);
+}
+.box5{
+	background-image: url(Valve-top.jpg);
+    height:450px ;
+    background-size: cover;
+    margin-top: 50px;
+}
+.box60{
+	width: 1500px;
+	height: 500px;
+	display: flex;
+	margin-top: 100px;
+}
+.box444{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+}
+.box333{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+}
+.box222{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+}
+.xob{
+	width: 400px;
+	height: 250px;
+}
+.box111{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.box000{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.notbox{
+    width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.box1111{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.box0000{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.notbox2{
+	width: 400px;
+	height: 600px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
